@@ -1,7 +1,7 @@
 # Captcha-Solving-Script
 This Python-based automation tool simplifies the process of checking trademark application statuses on the IP India eRegister website. It uses Selenium for web automation and EasyOCR to extract CAPTCHA text, enabling a seamless and efficient retrieval of trademark details.
 
-This project automates the process of checking trademark application statuses on the [IP India eRegister](https://tmrsearch.ipindia.gov.in/eregister/) website. It utilizes **Selenium** for web automation and **EasyOCR** for CAPTCHA recognition.  
+This project automates the process of checking trademark application statuses on the website. It utilizes **Selenium** for web automation and **EasyOCR** for CAPTCHA recognition.  
 
 ## 🚀 Features  
 - Automates navigation on the IP India eRegister website.  
