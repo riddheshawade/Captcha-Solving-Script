@@ -35,13 +35,14 @@ Before running the script, ensure you have:
 3. Install dependencies
     pip install -r requirements.txt
 
-🔧 Configuration
+## 🔧 Configuration
     Update the application number in the script before running.
     If CAPTCHA recognition fails, try improving the OCR settings.
-🛠 Troubleshooting
+
+## 🛠 Troubleshooting
     If ChromeDriver is not found, download the correct version from ChromeDriver and add it to your system path.
     Ensure all dependencies are correctly installed.
-📜 License
+## 📜 License
     This project is open-source and available under the MIT License.
 
 
