@@ -1,0 +1,29 @@
+# ===============================================================
+# Requirements File for Trademark Application Status Checker
+# ===============================================================
+# This file contains all necessary dependencies for the project.
+# To install, run: pip install -r requirements.txt
+# ===============================================================
+
+# Selenium: Automates browser interactions for web scraping & automation
+selenium==4.10.0  
+
+# EasyOCR: Optical Character Recognition (OCR) for CAPTCHA extraction
+easyocr==1.6.2  
+
+# Torch & torchvision: Required dependencies for EasyOCR's deep learning model
+torch==2.0.1  
+torchvision==0.15.2  
+
+# Pillow: Image processing library used for handling CAPTCHA images
+pillow==9.5.0  
+
+# NumPy: Supports numerical operations required by OCR and image processing
+numpy==1.24.3  
+
+# Requests: Simplifies HTTP requests (can be useful for future API integrations)
+requests==2.31.0  
+
+# TQDM: Progress bar for tracking script execution (optional, but useful)
+tqdm==4.65.0  
+
