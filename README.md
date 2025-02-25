@@ -11,11 +11,11 @@ This project automates the process of checking trademark application statuses on
 - Retrieves trademark application details based on the given application number.  
 
 ## 🛠 Technologies Used
-  Python – Core programming language
-  Selenium – Web automation for navigating and interacting with elements
-  EasyOCR – Optical Character Recognition (OCR) for CAPTCHA extraction
-  Pillow (PIL) – Image processing to handle CAPTCHA screenshots
-  Google Chrome & ChromeDriver – Browser automation
+      Python – Core programming language
+      Selenium – Web automation for navigating and interacting with elements
+      EasyOCR – Optical Character Recognition (OCR) for CAPTCHA extraction
+      Pillow (PIL) – Image processing to handle CAPTCHA screenshots
+      Google Chrome & ChromeDriver – Browser automation
 
 ## 📌 Prerequisites  
 Before running the script, ensure you have:  
